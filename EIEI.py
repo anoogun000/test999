@@ -1,5 +1,4 @@
 import discord,time
-import discord
 import requests
 import time
 from random import choice
